@@ -17,8 +17,9 @@
 	* [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) `高亮显示标签括号`
 	* [PHP Modern](https://packagecontrol.io/packages/PHP%20Modern) `PHP syntax definition for Sublime Text`
 	* [更多插件](https://packagecontrol.io/)
-* iTerm2 + Oh-my-zsh
-* Homebrew
+* [iTerm2](https://www.iterm2.com/) + [Oh-my-zsh](http://ohmyz.sh/)
+* [Homebrew](http://brew.sh/)
+* [MWeb](http://zh.mweb.im/) `迄今为止最好用的Markdown工具`
 
 
 
