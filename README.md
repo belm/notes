@@ -3,18 +3,24 @@
 
 ## MAC工具
 编辑器： Sublime Text 、Atom、VS Code
+
 * Sublime3 插件
-	* Alignment
-	* DocBlockr
-	* PHP Code Beautifier
-	* PHP Code Sniffer
-	* Encoding Helper
-	* SFTP
-	* SublimeCodeInter
-	* SublimeLinter
-	* [Emmet](http://emmet.io/)
+	* Alignment `用于代码对齐`
+	* DocBlockr `快速编写注释`
+	* PHP Code Beautifier `格式化代码`
+	* PHP Code Sniffer `提示语法错误`
+	* Encoding Helper `显示文件编码`
+	* SFTP `FTP工具`
+	* SublimeCodeInter `智能语法分析提示`
+	* SublimeLinter `用于代码语法的校验`
+	* [Emmet](http://emmet.io/) `zen coding的升级版,快速生成html代码`
+	* [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) `高亮显示标签括号`
+	* [PHP Modern](https://packagecontrol.io/packages/PHP%20Modern) `PHP syntax definition for Sublime Text`
+	* [更多插件](https://packagecontrol.io/)
 * iTerm2 + Oh-my-zsh
 * Homebrew
+
+
 
 ## PHP
 #### 框架
@@ -94,6 +100,10 @@
 ## 科学上网
 * Shadowsocks 或者 Surge (Mac)
 * Surge (IOS)
+
+## 网友整理的工具
+
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) `收集非常好用的Mac应用程序、软件以及工具`
 
 
 
