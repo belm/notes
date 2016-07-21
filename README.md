@@ -89,7 +89,7 @@
 	* pm2
 	* Tmux + node
 
->这条主路径不要偏移：原生js、使用jQuery及编写jQuery扩展、前端模板、前端mvc（backbone）、模块化开发（amd/cmd）、mvvm开发模式、react为代表的redux模式。另外css也是前端的一项基本功，有一些从后端转到前端的同学不想写css，我觉得这样不行，理解css有助于你去理解前端整体。所以关于css的学习，大体有这些就够：运用css完成页面、css基本原理（看w3c标准文档）、sass/less等预编译、架构可维护易扩展的整站css。至于css界新出的一些东西，比如OOcss、css module。
+>这条主路径不要偏移：原生js、使用jQuery及编写jQuery扩展、前端模板、前端mvc（backbone）、模块化开发（amd/cmd）、mvvm开发模式、react为代表的redux模式。另外css也是前端的一项基本功，大体有这些就够：运用css完成页面、css基本原理（看w3c标准文档）、sass/less等预编译、架构可维护易扩展的整站css。至于css界新出的一些东西，比如OOcss、css module。
 
 ## 科学上网
 * Shadowsocks 或者 Surge (Mac)
