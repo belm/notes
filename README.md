@@ -31,6 +31,7 @@
 * javascript + jquery
 * html5 + css3
 * nodejs
+
 #### 还很陌生的框架和工具
 * 代码风格
 	* JSLint/JSHint/JSCS/ESLint
