@@ -12,7 +12,7 @@
 	* SFTP
 	* SublimeCodeInter
 	* SublimeLinter
-	* Emmet
+	* [Emmet](http://emmet.io/)
 * iTerm2 + Oh-my-zsh
 * Homebrew
 
