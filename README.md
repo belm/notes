@@ -20,8 +20,19 @@
 * [iTerm2](https://www.iterm2.com/) + [Oh-my-zsh](http://ohmyz.sh/)
 * [Homebrew](http://brew.sh/)
 * [MWeb](http://zh.mweb.im/) `迄今为止最好用的Markdown工具`
+* [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON) `Prettify/Minify/Query/Goto/Validate/Lint JSON`
 
+```
+"theme": "Sunrise.sublime-theme",
+"color_scheme":"Packages/Sunrise Theme/Scheme/Sunrise.tmTheme"
 
+"theme": "Bamboo.sublime-theme",
+"color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme"
+
+"theme": "Theme - Kronuz.sublime-theme",
+"color_scheme": "Packages/Theme - Kronuz/Kronuz.tmTheme"
+
+```
 
 ## PHP
 #### 框架
