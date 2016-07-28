@@ -13,6 +13,9 @@
 	* SFTP `FTP工具`
 	* SublimeCodeInter `智能语法分析提示`
 	* SublimeLinter `用于代码语法的校验`
+	* jsFormat `格式化JS代码`
+	* jQuery `jQuery提示插件`
+	* Trailing Spaces `去掉代码中多余的空格`
 	* [Emmet](http://emmet.io/) `zen coding的升级版,快速生成html代码`
 	* [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) `高亮显示标签括号`
 	* [PHP Modern](https://packagecontrol.io/packages/PHP%20Modern) `PHP syntax definition for Sublime Text`
